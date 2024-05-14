@@ -39,4 +39,4 @@ Présentation de la gestion du projet avec un Kanban : <br>
 ### Solution technique
 
 La solution technique est un résumé de tous les autres travaux réalisés pour mener, préparer et planifier le développement du futur site de notre client Qwenta, que je lui ai présenté : <br>
-[Solution technique](./assets/documents/Antuna_Christian_4_solution technique_13032024.pdf)
+[Solution technique](./assets/documents/Antuna_Christian_4_solution_technique_13032024.pdf)
